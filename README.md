@@ -1,2 +1,2 @@
 # LearningPython
-just a persional repository
+just Record my learning process
