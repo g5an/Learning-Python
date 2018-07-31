@@ -21,4 +21,3 @@ while i < 6:
     elif num == random_num:
         print("right")
         break
-       
