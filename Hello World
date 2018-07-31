@@ -1,2 +1,1 @@
-printf ("Hello world")
-exit ()
+print ("Hello world")
