@@ -1,5 +1,6 @@
 #encoding:utf-8
 # python中""跟''的区别
+# '''支持多行
 str1 = 'i\'m a student'  
 str2 = "i'm a student"
 str3 = "you can call me \"lieman\" "
