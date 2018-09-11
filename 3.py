@@ -7,6 +7,7 @@ while i < 6:
     i = i + 1
     if i == 6:
         print("loser,try again next time")
+        print("the right number is: ",random_num)
         break
     num = int (input('please input a num rang(0,100)'))
     if num < 0 or num > 100:
