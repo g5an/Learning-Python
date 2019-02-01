@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearningPython.iml" filepath="$PROJECT_DIR$/.idea/LearningPython.iml" />
+      <module fileurl="file://H:/2.项目资料/1.监控实施/丰德科技-IT监控系统/v1.5.0部署包/itmm-server-linux-x64-1.5.0/scripts/.idea/scripts.iml" filepath="H:/2.项目资料/1.监控实施/丰德科技-IT监控系统/v1.5.0部署包/itmm-server-linux-x64-1.5.0/scripts/.idea/scripts.iml" />
+    </modules>
+  </component>
+</project>
